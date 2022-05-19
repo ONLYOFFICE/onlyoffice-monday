@@ -1,0 +1,22 @@
+{
+  "name": "onlyoffice-monday-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "form-data": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "monday-sdk-js": "^0.1.3",
+    "nconf": "^0.12.0",
+    "passport": "^0.5.2",
+    "passport-oauth2": "^1.6.1",
+    "winston": "^3.7.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "port": 8305,
+    "jwtkey": "123456",
+    "logger": {
+        "level": "debug",
+        "format": "json"
+    }
+}
